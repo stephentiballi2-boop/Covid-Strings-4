@@ -1,0 +1,100 @@
+doc.type HTML
+script
+Html
+Head
+utf-eight
+viewport content=width=device-width, initial-scale=one
+title covid strings4  first round bracket
+style= href styles.css
+bracket 
+matchup 
+solid zero
+style
+head
+body
+filename=covidstrings4 first round .js
+first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
+highest overall seed = 1 seed
+second highest seed=2 seed
+third highest seed=3 seed
+firstmiddleseed=4seed
+second middle seed = 5 seed
+third lowest seed= 6 seed
+second lowest seed = 7 seed
+lowest overall seed = 8 seed
+div id=bracket class=bracket></div>
+script src=bracket.js
+addeventlistener(domcontentloaded,() => {
+bracket = document.getelementbyid(bracket);
+teams=[green,black,orange,purple,white,yellow,red,magenta]
+create matchup (yellow moxie versus orange messengers)
+matchup = document.createelement(div);
+matchup.classlist.add(matchup);
+matchup.innerHTML = <div>${team1}</div><div>${team2}</div>
+return matchup;
+create matchup (white transit angels purple brave hearts)
+matchup = document.createelement(div);
+matchup.classList.add(matchup);
+matchup.innerHTML =<div>${team1}</div><div>${team2}</div>
+return matchup;
+create matchup(magenta magnetizers versus green peacemakers)
+matchup.classlist.add(matchup);
+matchup.innerHTML =<div>${team1}</div><div>${team2}</div>
+return matchup;
+create matchup (red protein spikers versus black night riders)
+matchupclasslist.add(matchup);
+matchup.innerHTML = <div>${team1}</div><div>${team2}</div>
+return matchup;
+createround =(teams) => {
+round = document.createelement(div);
+round.classlist.add(covid strings4 first round);
+for (let i = zero; i < teams.length; i += two) {
+round.appendchild(creatematchup(teams[i], teams[i + one]));
+return round;
+java util.scanner
+java.util
+questions[]questions={
+question1
+question2
+question3
+question4
+question5
+question6
+question7
+question8 
+question9 
+question10
+question11
+question12
+question13
+question14 
+question15
+question16 
+question17
+question18
+collections.shuffle(arrays.aslist(questions)
+advancingteams=slice(currentteams);
+result=declarewinner(team1 score, team2 score)
+if orange score>=fourty:
+console.log(orange rna messengers win)
+else:
+console.log(yellow moxie wins)
+advancingteams=slice(current teams)
+result=declare winner(team1 score, team2 score)
+if purple score>=fourty:
+console.log(purple brave hearts win)
+else:
+console.log(white transit angels win)
+advancingteams=slice(current teams);
+result =declarewinner(team1 score, team2 score)
+if green score>=fourty:
+console.log(green peacemakers win)
+else:
+console.log(magenta magnetizers win)
+advancingteams=slice(currentteams)
+result = declare winner (team1 score, team2 Score)
+if black score>=fourty:
+console.log(black night riders win)
+else:
+console.log(red protein spikers win)
+return filename
