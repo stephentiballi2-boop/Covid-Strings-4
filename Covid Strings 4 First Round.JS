@@ -1,7 +1,7 @@
 doc.type HTML
 script
-Html
-Head
+html
+head
 utf-eight
 viewport content=width=device-width, initial-scale=one
 title covid strings4  first round bracket
