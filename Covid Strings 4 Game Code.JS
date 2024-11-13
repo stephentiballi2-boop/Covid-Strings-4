@@ -82,50 +82,52 @@ covid strings4multiplechoicelist=[1:a short b medium c shadow in the time before
 14:a moral b warning c idea d lesson, 15: a treatments b natural immunity c resilience d vaccines, 16: a the boogeyman b whoever controls putins russia c emilia hartfords corvette zo6 d weather,
 17: a container b umbrella c blockade d blocker,18: a ironic b not surprising c memorable d an affront to covid research,
 19: a sixft bnineft c one half meter d fifty yards,20: a yes b no,21: a yes b no c not really]
-Covid Strings4 Math Problem List= [If Five People Used Zoom For A Discussion On Covid And The Amount To Download The Service Is SEVENTY NINE Dollars How Much Would It Cost To Download The Feature For Everyone, If One Of The People Ended Up Getting Covid And The Guidelines For Canceling The Conference Are If Three People Get Infected Can The Conference Continue As Planned?,If A Sudden Outbreak Caused Three More People To Get Infected Along With The One Already Infected Can The Conference Proceed?,If A Vaccine Came And Guidelines Were Changed To Say That A Conference Can Happen If Seventy Percent Of The People Are Vaccinated Could It Happen If Only Fourty Percent Of People Are Vaccinated?,If A Guest Speaker Were To Appear At This Conference If They Were Vaccinated Can It Still Happen?,If Vaccine Requirements Were To Drop And Guidelines Were To Include A Five Day Self-Isolation For Anyone Testing Positive Can It Still Happen?]
-If A Poll Found That Eighty-Seven Percent Of People Oppose This Conference Given The Disorganized Nature How Many Dont?  
-If+The+Margin+Of+Error+Is+Seven AND TWENTY FIVE HUNDRETHS+Percent+What+Is+The+Range?,If+That+Same+Poll+Found+That+THIRTY FIVE PERCENT+Percent+Of+Kids+Are+Skeptical+Of+Being+Vaccinated+What+Are+The+Chances+Of+Getting+To+Herd+Immunity?,If+The+Heritage+Foundation+Decided+To+Challenge+The+CDCs+Guildeines+On+The+Idea+That+Education+Is+Not+Federal+And+The+Seventy Percent+Rule+Is+Unconstituonal+Would+It+Hold+Water?]
-Covid Strings4 Sentence List=[Herd+Immunity+WilL+Keep+Kids+Safe+From+Covid+Weather,The Idea Of A Covid Conference Being Canceled Due To Covid Is Ironic,The+Debate+Between+Threeft+Versus+Sixft+Is+A+Sideshow ,The Idea Of A Covid Conference Being Canceled Due To Covid Is Ironic]
-String.Split   
-Arrays.AsList(List<String>)
-For (String Ss:Arr){
-System.OutprintIn(Ss)
-Import Java Util.Scanner
-Import Java.Util
-Questions[]Questions={
-Collections.Shuffle(Arrays.Aslist(Questions)
-Question.Bonus1=(If The Phrase In America Were Added To The Sentence Herd Immunity Will Keep Kids Safe From Covid Would The Meaning Change?)
-Question.Bonus2=(Would+The+Meaning+Of+The+Sentence+There+Is+A+WaY+To+Safely+Carry+Out+High+Contact+Activites+Change+If+It+Was+Substituted+With+Hockey?)  
-Private String GetBlanks(Int NumberofBlanks)
-Char[] Chars = New Char[NumberofBlanks]
-Arrays.Fill Chars 
-Return New String Chars 
-If Math Problem== X Percent:
-Subtract Exact From One Hundred
-If Math Problem== Margin Of Error:
-Add And Subtract Exact 
-Else:
-Remain Constant
-Userin.Select Team
-Import Meta.
-Class MyClass
-Constructor (Non-Concatenated)
-Return Category
+covidstrings4mathproblemlist= [if five people used zoom for a discussion on covid and the amount to download the service is seventy nine dollars how much would it cost to download the feature for everyone, if one of the people ended up getting covid and the guidelines for canceling the conference are if three people get infected can the conference continue as planned?,if a sudden outbreak caused three more people to get infected along with the one already infected can the conference proceed?,if a vaccine came and guidelines were changed to say that a conference can happen if seventy percent of the people are vaccinated could it happen if only fourty percent of people are vaccinated?,if a guest speaker were to appear at this conference if they were vaccinated can it still happen?,if vaccine requirements were to drop and guidelines were to include a five day self-isolation for anyone testing positive can it still happen?]
+if a poll found that eighty-seven percent of people oppose this conference given the disorganized nature how many dont?  
+if+the+margin+of+error+is+seven and twenty five hundreths+percent+what+is+the+range?,if+that+same+poll+found+that+thirty five percent+percent+of+kids+are+skeptical+of+being+vaccinated+what+are+the+chances+of+getting+to+herd+immunity?,if+the+heritage+foundation+decided+to+challenge+the+cdcs+guildeines+on+the+idea+that+education+is+not+federal+and+the+seventy percent+rule+is+unconstituonal+would+it+hold+water?]
+covidstrings4sentencelist=[herd+immunity+wilL+keep+kids+safe+from+covid+weather,the idea of a covid conference being canceled due to covid is ironic,the+debate+between+threeft+versus+sixft+is+a+sideshow,the idea of a covid conference being canceled due to covid is ironic]
+string.split   
+arrays.aslist(list<string>)
+for(string ss:arr){
+system.outprintin(ss)
+java util.scanner
+java.util
+questions[]questions={
+collections.shuffle(arrays.aslist(questions)
+question.bonus1=(if the phrase in america were added to the sentence herd immunity will keep kids safe from covid would the meaning change?)
+question.bonus2=(would+the+meaning+of+the+sentence+there+is+a+way+to+safely+carry+out+high+contact+activites+change+if+it+was+substituted+with+hockey?)  
+private string getblanks(int numberofblanks)
+char[] chars = new char[numberofblanks]
+arrays.fill chars 
+return new string chars 
+if math problem== x percent:
+subtract exact from one hundred
+if math problem== margin of error:
+add and subtract exact 
+else:
+remain constant
+userin.select team
+import meta.
+class myclass
+constructor (non-concatenated)
+return category
+if category==math problem:
+prompt
+log
+else:
+select from multiple choice
+myclass=newmyclass(concatenated) 
+return category
 If Category==Math Problem:
-Type Answer
-Else:
-Select From Multiple Choice
-Const Myclass=NewMyClass( Concatenated) 
-Return Category
-If Category==Math Problem:
-Type Answer
-Else:
-Select From Multiple Choice
-Import Syntax 
-Substring(Start,End)
-Userin.Multiple Choice
-If SelectedAnswer==Correct Answer:
-Return True
-Else:
-Return False
-return FileName
+prompt
+log
+else:
+select from multiple choice
+import syntax 
+substring(start,end)
+userin.multiple choice
+if selectedanswer==correct answer:
+return true
+else:
+return false
+return filename
