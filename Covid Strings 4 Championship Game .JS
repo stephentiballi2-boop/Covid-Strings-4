@@ -7,13 +7,13 @@ championship game=(highest and lowest remaining seeds )
 team high seed= highest remaining seed 
 team low seed = lowest remaining seed
 rounddiv=covid strings4 championship round
-matchupclassName = matchup;
+matchupclassname = matchup;
 matchupdiv.innerHTML =[team low seed versus team high seed]
-roundDiv.AppendChild(MatchupDiv);
-bracket.AppendChild(RoundDiv);
+rounddiv.appendchild(matchupdiv);
+bracket.appendchild(rounddiv);
 advancingTeam = slice(current teams)
-java Util.Scanner
-java.Util
+java util.scanner
+java.util
 questions[]questions={
 question28
 question29
