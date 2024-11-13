@@ -118,7 +118,7 @@ else:
 select from multiple choice
 myclass=newmyclass(concatenated) 
 return category
-If Category==Math Problem:
+if category==math problem:
 prompt
 log
 else:
