@@ -6,7 +6,7 @@ img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img)
-<div id=header></div>
+div id=header/div
 audio=new audio (audio_file mp3)
 audio.play 
 jbutton random button
@@ -39,8 +39,8 @@ color m=jcolorchooser.showdialog(funwithgraphics.this,))
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel, borderlayout.south)
-public static void main(string [] args){
-jframe f = new Covid Strings(4)
+public static main(string [] args){
+jframe f = new covid strings(4)
 f.set title(covid strings4)
 f.set default closeoperation(jframe. exit_on_close);
 f.setsize
@@ -58,10 +58,10 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.inner html=score
 private j button next button=new jbutton(next)
 nextbutton add.actionlistener(this)
-public void actionperformed(action event e) 
+public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
 frame set visible true
@@ -69,7 +69,7 @@ object {a:one, b:two, c:three, d:four, e:five, f:six, g:seven, h:eight}
 keys object keys(team)
 entries object entries(obj);
 value object= [team color]
-covidstringsteamlist4= [green,black,orange,purple,white,yellow,red,magenta,]
+covidstringsteamlist4= [green peacemakers,black night riders,orange rna messengers,purple brave hearts,white transit angels,yellow moxie,red protein spikers,magenta magentizers]
 covid strings phrase list=[non-concatenated arcturus variant is one part of a long arc in covid history,there may be some new thing next,it may be negative or positive,perhaps it may be stronger antibodies 
 even if its not the case there will be stronger vaccines,hey they can help serve as an umbrella against future variants,another part of this long arc involves inequities with healthcare
 this includes inequities existing in year one and to today
@@ -151,4 +151,8 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet) 
+if users team wins covid strings4 
+console log users team wins covid strings4 
+else
+return game over
 return filename
