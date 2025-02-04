@@ -19,32 +19,30 @@ highest overall seed = 1 seed
 second highest seed=2 seed
 third highest seed=3 seed
 firstmiddleseed=4seed
-second middle seed = 5 seed
+second middle seed =5 seed
 third lowest seed= 6 seed
 second lowest seed = 7 seed
 lowest overall seed = 8 seed
-div id=bracket class=bracket></div>
-script src=bracket.js
 addeventlistener(domcontentloaded,() => {
 bracket = document.getelementbyid(bracket);
 teams=[green,black,orange,purple,white,yellow,red,magenta]
-create matchup (yellow moxie versus orange messengers)
-matchup = document.createelement(div);
+matchup1= (yellow moxie versus orange messengers)
+matchup=document.createelement(div);
 matchup.classlist.add(matchup);
-matchup.innerHTML = <div>${team1}</div><div>${team2}</div>
+matchup.inner html = <div>${team1}</div><div>${team2}</div>
 return matchup;
-create matchup (white transit angels purple brave hearts)
+matchup2=(white transit angels purple brave hearts)
 matchup = document.createelement(div);
-matchup.classList.add(matchup);
-matchup.innerHTML =<div>${team1}</div><div>${team2}</div>
+matchup.class list.add(matchup);
+matchup.inner html =<div>${team1}</div><div>${team2}</div>
 return matchup;
-create matchup(magenta magnetizers versus green peacemakers)
+matchup3=(magenta magnetizers versus green peacemakers)
 matchup.classlist.add(matchup);
-matchup.innerHTML =<div>${team1}</div><div>${team2}</div>
+matchup.inner html =<div>${team1}</div><div>${team2}</div>
 return matchup;
-create matchup (red protein spikers versus black night riders)
+matchup4=(red protein spikers versus black night riders)
 matchupclasslist.add(matchup);
-matchup.innerHTML = <div>${team1}</div><div>${team2}</div>
+matchup.inner html= <div>${team1}</div><div>${team2}</div>
 return matchup;
 createround =(teams) => {
 round = document.createelement(div);
@@ -75,26 +73,23 @@ question17
 question18
 collections.shuffle(arrays.aslist(questions)
 advancingteams=slice(currentteams);
-result=declarewinner(team1 score, team2 score)
-if orange score>=fourty:
+result=declarewinner(matchup1)
+if orange score>=forty:
 console.log(orange rna messengers win)
 else:
 console.log(yellow moxie wins)
-advancingteams=slice(current teams)
-result=declare winner(team1 score, team2 score)
-if purple score>=fourty:
+result=declare winner(matchup2)
+if purple score>=forty:
 console.log(purple brave hearts win)
 else:
 console.log(white transit angels win)
-advancingteams=slice(current teams);
-result =declarewinner(team1 score, team2 score)
-if green score>=fourty:
+result =declarewinner(matchup3)
+if green score>=forty:
 console.log(green peacemakers win)
 else:
 console.log(magenta magnetizers win)
-advancingteams=slice(currentteams)
-result = declare winner (team1 score, team2 Score)
-if black score>=fourty:
+result = declare winner (matchup4)
+if black score>=forty:
 console.log(black night riders win)
 else:
 console.log(red protein spikers win)
