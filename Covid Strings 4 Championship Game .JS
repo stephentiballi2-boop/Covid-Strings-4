@@ -1,10 +1,10 @@
-doc.type html
+doc.type.html
 script
 html
 head
 utf8
 viewport content=width=device-width, initial-scale=one
-title covidstrings 4 championship bracket 
+title covidstrings4 championship bracket 
 div id bracket class bracket div
 script src bracket .js
 link rel= stylesheet href=css
@@ -44,7 +44,7 @@ prompt
 log
 else:
 select from multiple choice
-const myclass=newmyclass(concatenated) 
+myclass=newmyclass(concatenated) 
 return category
 if category==math problem:
 prompt
