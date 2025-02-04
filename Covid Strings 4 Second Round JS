@@ -3,7 +3,7 @@ script
 html
 head
 utf8
-viewport content=width=device-width, initial-scale=one>
+viewport content=width=device-width, initial-scale=one
 title covidstrings 4  second round bracket 
 div id bracket class bracket div
 script src bracket .js
@@ -19,19 +19,19 @@ filename=covid strings4 second round .js
 highest remaining seed =(greatest remaining num value in covid strings list)
 lowest remaining seed = (lowest remaining num value in covid strings list)
 intermediate seed1=(first middle remaining value in covid  strings list)
-Intermediate Seed2=(second middle remaining value in covid strings list)
-createround = (teams) => {
+Intermediate seed2=(second middle remaining value in covid strings list)
+createround=(teams)
 round =document.createelement(div);
 round.classlist.add(covid strings4 second round);
 for (let i = zero; i < teams.length; i += two) {
 round.appendchild(creatematchup(teams[i,teams[i +one]));
 return round;
 matchup=document.createelement(matchup)
-create matchup(lowest remaining seed versus highest remaining seed  )
+matchup1=(lowest remaining seed versus highest remaining seed)
 matchup.covid strings seed list.add(matchup)
 bracket.appendchild(matchup)
 matchup=document.createelement(matchup)
-create matchup(intermediate seed2 versus intermediate seed1  )
+matchup2=(intermediate seed2 versus intermediate seed1  )
 matchup.covid strings seed list. add(matchup)
 bracket.append child(matchup)
 java util.scanner
@@ -52,14 +52,14 @@ char[] chars = new char[numberofblanks]
 arrays.fill chars 
 return new string chars 
 advancingteams=slice(currentteams)
-bracket.innerHTML = html;
+bracket.inner html = html;
 result= declarewinner(team1 score, team2 score)
-if intermediate seed1 score >=fourty:
+if intermediate seed1 score >=forty:
 console.log(intermediate seed1 wins)
 else:
 console.log(intermediate seed2 wins)
-result =declarewinner(team1score, team2score)
-if highest remaining seed score >=fourty:
+result =declarewinner(matchup2)
+if highest remaining seed score>=forty:
 console.log(highest remaining seed wins)
 else:
 console.log(lowest remaining seed wins)
