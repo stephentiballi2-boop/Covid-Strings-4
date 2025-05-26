@@ -1,5 +1,29 @@
 doc.type html
+html lang en
 script
+header=document create.element (header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’welcome to covid strings4 first round’
+document appendchild(header)
+<header.html>
+heading variables 
+the heading numbers that determine where each heading and subheading go 
+heading1=first round overview
+heading2=matchups
+heading3=first round questions
+heading4=advancing rounds
+subheading1=team stealing
+subheading2=result for matchup1
+subheading3=result for matchup2
+subheading4=result for matchup3
+subheading5=result for matchup4
+<header.html>
+first round overview
+an overview of the first round of covid strings4 includes seeding 
 html
 head
 utf-eight
@@ -14,6 +38,11 @@ solid zero
 padding 
 text align center 
 filename=covidstrings4 first round .js
+document.addeventlistener(domcontentloaded,() => 
+bracket =document.getelementbyid(bracket);
+<header.html>
+matchups 
+for first round there are 8 teams which equals 4 matchups 
 first round=(highest overall seed ,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed = 1 seed
 second highest seed=2 seed
