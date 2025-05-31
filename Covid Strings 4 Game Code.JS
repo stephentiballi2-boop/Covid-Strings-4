@@ -48,7 +48,6 @@ button panel
 new panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
-override 
 public actionperformed(actionevent e)
 random r= newrandom();
 <header.html>
@@ -65,6 +64,9 @@ teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
+<header.html>
+game code part 1
+part 1 of game code for covid strings4(value object[team-color]-desired color green)
 public actionperformed(actionevent e)
 color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
@@ -100,10 +102,19 @@ object {a:one, b:two, c:three, d:four, e:five, f:six, g:seven, h:eight}
 keys object keys(team)
 entries object entries(obj);
 value object= [team color]
-<header.html>
-game code part 1
-part 1 of game code for covid strings4(value object[team-color]-desired color green)
 covidstringsteamlist4= [green peacemakers,black night riders,orange rna messengers,purple brave hearts,white transit angels,yellow moxie,red protein spikers,magenta magentizers]
+<header.html>
+phrases
+phrases that involve both non-concatenated and concatenated strings 
+covid strings phrase list=[non-concatenated  strings "arcturus variant is one part of a long arc in covid history","there may be some new thing next",
+"it may be negative or positive","perhaps it may be stronger antibodies" 
+"even if its not the case there will be stronger vaccines","hey they can help serve as an umbrella against future variants",
+"another part of this long arc involves inequities with healthcare","this includes inequities existing in year one and to today"]
+concatenated strings
+["fifth harmonys"+"work"+"from"+"home"+"is"+"not"+"the"+"only"+"work"+"from"+"home"+"song","i"+"hear"+"there"+"are"+"some"+"more"
+"one"+"of"+"them"+"deals"+"with"+"not"+"giving"+"up","there"+"was"+"after"+"all"+"a"+"lot"+"of"+"madness"+"over"+"the"+"last"+"two"+"years"
+"this"+"included"+"but"+"was"+"not"+"limited"+"to"+"the"+"2020"+"ncaa"+"basketball"+"tournament","there"+"was"+"better"+"news"+"at"+"the"+"professional"+"level"
+"one"+"of"+"the"+"positive"+"stories"+"on"+"the"+"bubble"+"can"+"be"+"found"+"in"+"the"+"one"+"four"+"four","the"+"basic"+"lesson"+"from"+"the"+"bubble"+"is"+"that"+"there"+"is"+"a"+"way"+"to"+"safely"+"carry"+"out"+"high"+"contact"+"activities"]
 string manager{non-concatenated}
 insert string(entity,string)
 entity.element.text=string
@@ -117,28 +128,6 @@ for string in covid strings phrase list4
 select characters
 edit diffuse property
 desired color=green
-for string in covid strings4 math problems list
-select characters
-edit diffuse property
-desired color=green
-for string in covid strings4 sentence list 
-select characters
-edit diffuse property
-desired color=green
-<header.html>
-phrases
-phrases that involve both non-concatenated and concatenated strings 
-covid strings phrase list=[non-concatenated  strings "arcturus variant is one part of a long arc in covid history","there may be some new thing next","it may be negative or positive","perhaps it may be stronger antibodies" 
-"even if its not the case there will be stronger vaccines","hey they can help serve as an umbrella against future variants","another part of this long arc involves inequities with healthcare"
-"this includes inequities existing in year one and to today"
-concatenated strings
-"fifth harmonys"+"work"+"from"+"home"+"is"+"not"+"the"+"only"+"work"+"from"+"home"+"song","i"+"hear"+"there"+"are"+"some"+"more"
-"one"+"of"+"them"+"deals"+"with"+"not"+"giving"+"up"
-"there"+"was"+"after"+"all"+"a"+"lot"+"of"+"madness"+"over"+"the"+"last"+"two"+"years"
-"this"+"included"+"but"+"was"+"not"+"limited"+"to"+"the"+"2020"+"ncaa"+"basketball"+"tournament"
-"there"+"was"+"better"+"news"+"at"+"the"+"professional"+"level"
-"one"+"of"+"the"+"positive"+"stories"+"on"+"the"+"bubble"+"can"+"be"+"found"+"in"+"the"+"one"+"four"+"four"
-"the"+"basic"+"lesson"+"from"+"the"+"bubble"+"is"+"that"+"there"+"is"+"a"+"way"+"to"+"safely"+"carry"+"out"+"high"+"contact"+"activities"]
 <header.html>
 multiple choice questions
 multiple choice questions and answers that will appear in covid strings4
@@ -152,10 +141,23 @@ covid strings4multiplechoicelist=[1:a short b medium c shadow in the time before
 19: a sixft bnineft c one half meter d fifty yards,20: a yes b no,21: a yes b no c not really]
 <header.html>
 math problems
-covid related math problems That Will Appear In Covid Strings4
-covidstrings4mathproblemlist= [ non-concatenated "if five people used zoom for a discussion on covid and the amount to download the service is seventy nine dollars how much would it cost to download the feature for everyone"?, "if one of the people ended up getting covid and the guidelines for canceling the conference are if three people get infected can the conference continue as planned"?,"if a sudden outbreak caused three more people to get infected along with the one already infected can the conference proceed"?,"if a vaccine came and guidelines were changed to say that a conference can happen if seventy percent of the people are vaccinated could it happen if only fourty percent of people are vaccinated"?,"if a guest speaker were to appear at this conference if they were vaccinated can it still happen"?,"if vaccine requirements were to drop and guidelines were to include a five day self-isolation for anyone testing positive can it still happen"?,
+covid related math problems that will appear In covid strings4
+covidstrings4mathproblemlist= [non-concatenated "if five people used zoom for a discussion on covid and the amount to download the service is seventy nine dollars how much would it cost to download the feature for everyone"?, "if one of the people ended up getting covid and the guidelines for canceling the conference are if three people get infected can the conference continue as planned"?,"if a sudden outbreak caused three more people to get infected along with the one already infected can the conference proceed"?,"if a vaccine came and guidelines were changed to say that a conference can happen if seventy percent of the people are vaccinated could it happen if only fourty percent of people are vaccinated"?,"if a guest speaker were to appear at this conference if they were vaccinated can it still happen"?,"if vaccine requirements were to drop and guidelines were to include a five day self-isolation for anyone testing positive can it still happen"?,
 "if a poll found that eighty-seven percent of people oppose this conference given the disorganized nature how many dont"?  
 concatenated "if"+"the"+"margin"+"of"+"error"+"is"+"seven and twenty five hundreths"+"percent"+"what"+"is"+"the"+"range"?,"if"+"that"+"same"+"poll"+"found"+"that"+"thirty five percent"+"percent"+"of"+"kids"+"are"+"skeptical"+"of"+"being"+"vaccinated"+"what"+"are"+"the"+"chances"+"of"+"getting"+"to"+"herd"+"immunity"?,"if"+"the"+"heritage"+"foundation"+"decided"+"to"+"challenge"+"the"+"cdcs"+"guildeines"+"on"+"the"+"idea"+"that"+"education"+"is"+"not"+"federal"+"and"+"the"+"seventy-percent"+"rule"+"is"+"unconstituonal"+"would"+"it"+"hold"+"water"?]
+string manager{non-concatenated}
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings4 math problems list
+select characters
+edit diffuse property
+desired color=green
 public static main(string[]args)
 int number
 number=number*2
@@ -184,10 +186,26 @@ remain constant
 sentences
 covid related sentences that will appear in covid strings4
 covidstrings4sentencelist=["herd"+"immunity"+"will"+"keep"+"kids"+"safe"+"from"+"covid"+"weather","the idea of a covid conference being canceled due to covid is ironic","the"+"debate"+"between"+"threeft"+"versus"+"sixft"+"is"+"a"+"sideshow","the idea of a covid conference being canceled due to covid is ironic"]
+string manager{non-concatenated}
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings4 sentence list 
+select characters
+edit diffuse property
+desired color=green
 string.split   
 arrays.aslist(list<string>)
 for(string ss:arr)
 system.outprintin(ss)
+<header.html>
+game code part 2
+the rest of the game code excluding answer and winner checker
 java util.scanner
 java.util
 questions[]questions=
@@ -201,19 +219,14 @@ bonus question
 the extra question or questions that appear around the end of the game
 question.bonus1=("if the phrase in america were added to the sentence herd immunity will keep kids safe from covid would the meaning change"?)
 question.bonus2=("would"+"the"+"meaning"+"of"+"the"+"sentence"+"there"+"is"+"a"+"way"+"to"+"safely"+"carry"+"out"+"high"+"contact"+"activites"+"change"+"if"+"it"+"was"+"substituted"+"with"+"hockey"?)  
-<header.html>
-game code part 2
-the rest of the game code excluding answer and winner checker
+for string in covid strings4 bonus question
+select characters
+edit diffuse property
+desired color=green 
 private string getblanks(int numberofblanks)
 char[] chars = new char[numberofblanks]
 arrays.fill chars 
 return new string chars 
-if math problem== x percent:
-subtract exact from one hundred
-if math problem== margin of error:
-add and subtract exact 
-else:
-remain constant
 userin.select team
 import meta.
 class myclass
@@ -276,8 +289,12 @@ the feature within covid strings that allows for the player to know if their tea
 check winner:
 if winner==true:
 log(the winner is)
+else:
+remain
 if winner==false:
-log(no winner yet) 
+log(no winner yet)
+else:
+log winner
 if users team wins covid strings4 
 console log users team wins covid strings4 
 else
