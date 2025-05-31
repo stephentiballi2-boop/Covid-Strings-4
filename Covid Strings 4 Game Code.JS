@@ -219,6 +219,15 @@ bonus question
 the extra question or questions that appear around the end of the game
 question.bonus1=("if the phrase in america were added to the sentence herd immunity will keep kids safe from covid would the meaning change"?)
 question.bonus2=("would"+"the"+"meaning"+"of"+"the"+"sentence"+"there"+"is"+"a"+"way"+"to"+"safely"+"carry"+"out"+"high"+"contact"+"activites"+"change"+"if"+"it"+"was"+"substituted"+"with"+"hockey"?)  
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string=””
 for string in covid strings4 bonus question
 select characters
 edit diffuse property
