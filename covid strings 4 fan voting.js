@@ -234,335 +234,335 @@ result element inner html
 <header.html>
 non-concatenated string variables 
 non-concatenated strings in covid strings
-non-concatenated strings list=[1:phrase “arcturus variant is part of a long arc in covid history” , 2:phrase “it may be negative or positive”, 3:phrase “there may be some new thing next”, 4:math problem “if 5 people Used Zoom For A Discussion On Covid And The Amount To Download The Service Is $ 79 How Much Would It Cost To Download The Feature For Everyone?”, Math Problem “If One Of The People Ended Up Getting Covid And The Guidelines For Canceling The Conference Are If 3 People Get Infected Can The Conference Continue As Planned?”, Math Problem “If A Sudden Outbreak Caused 3 More People To Get Infected Along With The One Already Infected Can The Conference Proceed?”, Math Problem “If A Vaccine Came And The Guidelines  Were Changed To Say That A Conference Can Happen If 70 Percent Of The People Are Vaccinated Could It Happen If Only 40 Percent Of People Are Vaccinated?”, Math Problem  “If A Guest Speaker Were To Appear At This Conference If They Were Vaccinated Can It Still Happen?”, 9:math problem “if vaccine requirements were to drop and guidelines were to include a 5 day self isolation period for anyone testing positive can it still happen?”, 10:math problem  “if a poll found that 87 percent of people oppose this conference given the disorganized nature how many dont?”, 11:phrase “this includes inequities existing from year one to today”, 12:phrase “another part of this long arc includes inequities in healthcare”, 13:phrase “perhaps it may be stronger antibodies” , 14:phrase “even if its not the case there will be stronger antibodies”, 15: phrase “hey they can serve as an umbrella against future variants”, 16:sentence “the idea of a covid conference being canceled due to covid is ironic”  ]
+non-concatenated strings list=[1:phrase “arcturus variant is part of a long arc in covid history” , 2:phrase “it may be negative or positive”, 3:phrase “there may be some new thing next”, 4:math problem “if 5 people Used Zoom For A Discussion on covid and the amount to download the service is $ 79 how much would it cost to download the feature for everyone?”, 5:math problem “if one of the people ended up getting covid and the guidelines for canceling the conference are if 3 people get infected can the conference continue as planned?”, 6:math problem “if a sudden outbreak caused 3 more people to get infected along with the one already infected can the conference proceed?”, 7:math problem “if a vaccine came and the guidelines  were changed to say that a conference can happen if 70 percent of the people are vaccinated could it happen if only 40 percent of people are vaccinated?”, 8:math problem  “if a guest speaker were to appear at this conference if they were vaccinated can it still happen?”, 9:math problem “if vaccine requirements were to drop and guidelines were to include a 5 day self isolation period for anyone testing positive can it still happen?”, 10:math problem  “if a poll found that 87 percent of people oppose this conference given the disorganized nature how many dont?”, 11:phrase “this includes inequities existing from year one to today”, 12:phrase “another part of this long arc includes inequities in healthcare”, 13:phrase “perhaps it may be stronger antibodies” , 14:phrase “even if its not the case there will be stronger antibodies”, 15: phrase “hey they can serve as an umbrella against future variants”, 16:sentence “the idea of a covid conference being canceled due to covid is ironic”]
 non-concatenated string1=phrase“arcturus variant is part of a long arc in covid history”
 non-concatenated string2=phrase “it may be negative or positive”,
 non-concatenated string3=phrase “there may be some new thing next”
-non-concatenated string4=math problem “If 5 People Used Zoom For A Discussion On Covid And The Amount To Download The Service Is $ 79 How Much Would It Cost To Download The Feature For Everyone?”
-non-concatenated string5=math problem “If One Of The People Ended Up Getting Covid And The Guidelines For Canceling The Conference Are If 3 People Get Infected Can The Conference Continue As Planned?
-non-concatenated string6=math problem “If A Sudden Outbreak Caused 3 More People To Get Infected Along With The One Already Infected, Can The Conference Proceed?”
-non-concatenated string7=math problem “If A Vaccine Came And The Guidelines  Were Changed To Say That A Conference Can Happen If 70 Percent Of The People Are Vaccinated Could It Happen If Only 40 Percent Of People Are Vaccinated?”
-non-concatenated string8=math problem “If A Guest Speaker Were To Appear At This Conference If They Were Vaccinated Can It Still Happen?”
-non-concatenated string9=math problem “If Vaccine Requirements Were To Drop And Guidelines Were To Include A 5 Day Self Isolation Period For Anyone Testing Positive Can It Still Happen?”
-non-concatenated string10=math problem “If A Poll Found That 87 Percent Of People Oppose This Conference Given The Disorganized Nature How Many Dont?”
-non-concatenated string11=phrase “This Includes Inequities Existing From Year One To Today”
-non-concatenated string12=phrase “Another Part Of This Long Arc Includes Inequities In Healthcare”,
-non-concatenated string13=phrase“Perhaps It May Be Stronger Antibodies” 
-non-concatenated string14=phrase “Even If Its Not The Case There Will Be Stronger Antibodies”,
-non-concatenated string15=phrase “Hey They Can Serve As An Umbrella Against Future Variants”,
-non-concatenated string16=sentence “The Idea Of A Covid Conference Being Canceled Due To Covid Is Ironic”  
+non-concatenated string4=math problem “if 5 people used zoom for a discussion on covid and the amount to download the service is $ 79 how much would it cost to download the feature for everyone?”
+non-concatenated string5=math problem “if one of the people ended up getting covid and the guidelines for canceling the conference are if 3 people get infected can the conference continue as planned?
+non-concatenated string6=math problem “if a sudden outbreak caused 3 more people to get infected along with the one already infected, can the conference proceed?”
+non-concatenated string7=math problem “if a vaccine came and the guidelines were changed to say that a conference can happen if 70 percent of the people are vaccinated could it happen if only 40 percent of people are vaccinated?”
+non-concatenated string8=math problem “if a guest speaker were to appear at this conference if they were vaccinated can it still happen?”
+non-concatenated string9=math problem “if vaccine requirements were to drop and guidelines were to include a 5 day self isolation period for anyone testing positive can it still happen?”
+non-concatenated string10=math problem “if a poll found that 87 percent of people oppose this conference given the disorganized nature how many dont?”
+non-concatenated string11=phrase “this includes inequities existing from year one to today”
+non-concatenated string12=phrase “another part of this long arc includes inequities in healthcare”,
+non-concatenated string13=phrase“perhaps it may be stronger antibodies” 
+non-concatenated string14=phrase “even if its not the case there will be stronger antibodies”,
+non-concatenated string15=phrase “hey they can serve as an umbrella against future variants”,
+non-concatenated string16=sentence “the idea of a covid conference being canceled due to covid is ironic”  
 chapter=document.queryselector(chapter)
 chapter inner html
 replace ‘ with / 
 for apostrophe in covid strings4fan voting
 select characters
-Edit Diffuse Property
-Desired Color=Green
-<P>String 1[Votes ‘String 1 ‘]}Votes</P>
-<P>String 2[Votes ‘String 2 ‘]}Votes</P>
-String 3 [Votes ‘String 3 ‘]}Votes</P>
-String 4 [Votes ‘String 4 ‘]}Votes</P>
-String 5[Votes ‘String 5 ‘]}Votes</P>
-String 6[Votes ‘String 6 ‘]}Votes</P>
-String 7 [Votes ‘String 7 ‘]}Votes</P>
-String 8[Votes ‘String 8 ‘]}Votes</P>
-String 9 [Votes ‘String 9 ‘]}Votes</P>
-String 10 [Votes ‘String 10 ‘]}Votes</P>
-String 11[Votes ‘String 11 ‘]}Votes</P>
-String 12 [Votes ‘String 12 ‘]}Votes</P>
-String 13 [Votes ‘String 13 ‘]}Votes</P>
-String 14 [Votes ‘String 14 ‘]}Votes</P>
-String 15 [Votes ‘String 15 ‘]}Votes</P>
-String 16 [Votes ‘String 16 ‘]}Votes</P>
-<Subheading.Html>
-Non-Concatenated String Advancing 
-The Code Designed To Advancing Winning Non-Concatenated Strings 
-Advance To Next Round (Strings To Advance)
-Sorted Strings=(Strings.Sort(String1,String2) Strings 1 Votes String 2 Votes)
-Advancing Strings= Sorted Strings.Slice(0,Num To 8)
-Return Advancing Strings 
-If Result Matchup1>=.5
-If Result Matchup2>=.5
-If Result Matchup3>=.5
-If Result Matchup4>=.5
-If Result Matchup5>=.5
-If Result Matchup6>=.5
-If Result Matchup7>=.5
-If Result Matchup8>=.5
-<Header.Html>
-Concatenated String Variables
-Concatenated Strings In Covid Strings
-Concatenated String List=[Phrase “5Th”+”Harmonys”+”Work”+”Is”+”Not”+”The”+”Only”+”Work”+”From”+”Home”+”Song”, Phrase ”I”+”Hear”+”There”+”Are”+”Some”+”More”,Phrase “One”+”Of”+”Them”+”Deals”+”With”+”Not”+”Giving”+”Up”, Phrase “There”+”Was”+”After”+”All”+”A”+”Lot”+”Of”+”Madness”+”Over”+”The”+”Last”+”Two”+”Years”, Phrase ”This”+”Included”+”But”+”Was”+”Not”+”Limited”+”To”+”The”+”2020”+”NCAA”+”Basketball”+”Tournament”, Phrase ”There”+”Was”+”Better”+”News”+”At”+”The”+”Professional”+”Level”, Math Problem “If”+”A”+”Draft”+”Of”+”CDC”+”Guidelines”+”Suggests”+”That”+”Social”+”Distancing”+”Can”+”Be”+”Reduced”+”To”+”3Ft”+”Of”+”Distancing”+”Be”+”Implemented”+”If”+”School”+”Starts”+”In”+”September?”, Math Problem ”If”+”The”+”Cdc”+”Clarified”+”These”+”Guidelines”+”To”+”Say”+”That”+”Everyone”+”Means”+”70”+”Percent”+’Of”+”K-12”+”Kids”+”Nationwide”+”And”+”The”+”Vaccination”+”Rate”+”Is”+”40%”+”Should”+”Schools”+”Allow”+”For”+”3”+”Feet”+”Of”+”Distancing?”, Math Problem “If”+”A”+”Poll”+”Taken”+”On”+”July”+”28Th”+”Showed”+”That”+”25%”+”Of”+”Respondents”+”Said”+”They”+”Were”+”Open”+”To”+”Getting”+”Vaccinated”+”Can”+”3Ft”+”Of”+”Distancing”+”Be”+”Implemented”+”If”+”School”+”Starts”+”In”+”September”?, Math Problem “If”+”The”+”Margin”+”Of”+”Error”+”Is”+”7.25”+”Percent”+”What”+”Is”+”The”+”Range?”, Math Problem ”If”+”That”+”Same”+”Poll”+”Found”+”That”+”35”+”Percent”+”Of”+”Kids”+”Are”+”Skeptical”+”Of”+”Being”+”Vaccinated”+”What”+”Are”+”The”+”Chances”+”Of”+”Getting”+”To”+”Herd”+”Immunity?” Math Problem “If”+”The”+”Heritage”+”Foundation”+”Decided”+”To”+”Challenge”+”The”+”Cdcs”+”Guidelines”+”On”+”The”+”Idea”+”That”+”Education”+”Is”+”Not”+”Federal”+”And”+”The”+”70”+”Percent”+”Rule”+”Is”+”Unconstituional”+”Would”+”It”+”Hold”+”Water?” Phrase “One”+”Of”+”The”+”Positive”+”Stories”+”Can”+”Be”+”Found”+”In”+”The”+”One”+”Four”+”Four”, Phrase “The”+”Basic”+”Lesson”+”From”+”The”+”Bubble”+”Is”+”That”+”There”+”Is”+”A”+”Way”+”To”+”Safely”+”Carry”+”Out”+”High”+”Contact”+”Activites” Sentence “Herd”+”Immunity”+”Will”+”Keep”+”Kids”+”Safe”+”From”+”Covid”+”Weather”, Sentence “The”+”Debate”+”Between”+”3Ft”+”And”+”6Ft”+”Is”+”A”+”Sideshow”
-Concatenated String1=Phrase “5Th”+”Harmonys”+”Work”+”Is”+”Not”+”The”+”Only”+”Work”+”From”+”Home”+”Song”
-Concatenated String2=Phrase”I”+”Hear”+”There”+”Are”+”Some”+”More”
-Concatenated String3=Phrase “One”+”Of”+”Them”+”Deals”+”With”+”Not”+”Giving”+”Up”
-Concatenated String4=Phrase “There”+”Was”+”After”+”All”+”A”+”Lot”+”Of”+”Madness”+”Over”+”The”+”Last”+”Two”+”Years”
-Concatenated String5=Phrase ”This”+”Included”+”But”+”Was”+”Not”+”Limited”+”To”+”The”+”2020”+”NCAA”+”Basketball”+”Tournament”
-Concatenated String6= Phrase ”There”+”Was”+”Better”+”News”+”At”+”The”+”Professional”+”Level”
-Concatenated String7=Math Problem “If”+”A”+”Draft”+”Of”+”CDC”+”Guidelines”+”Suggests”+”That”+”Social”+”Distancing”+”Can”+”Be”+”Reduced”+”To”+”3Ft”+”Of”+”Distancing”+”Be”+”Implemented”+”If”+”School”+”Starts”+”In”+”September?”
-Concatenated String8=Math Problem ”If”+”The”+”Cdc”+”Clarified”+”These”+”Guidelines”+”To”+”Say”+”That”+”Everyone”+”Means”+”70”+”Percent” +’Of”+”K-12”+”Kids”+”Nationwide”+”And”+”The”+”Vaccination”+”Rate”+”Is”+”40%”+”Should”+”Schools”+”Allow”+”For”+”3”+”Feet”+”Of”+”Distancing?”
-Concatenated String9=Math Problem “If”+”A”+”Poll”+”Taken”+”On”+”July”+”28Th”+”Showed”+”That”+”25%”+”Of”+”Respondents”+”Said”+”They”+”Were”+”Open”+”To”+”Getting”+”Vaccinated”+”Can”+”3Ft”+”Of”+”Distancing”+”Be”+”Implemented”+”If”+”School”+”Starts”+”In”+”September”?
-Concatenated String10=Math Problem “If”+”The”+”Margin”+”Of”+”Error”+”Is”+”7.25”+”Percent”+”What”+”Is”+”The”+”Range?
-Concatenated String11=Math Problem ”If”+”That”+”Same”+”Poll”+”Found”+”That”+”35”+”Percent”+”Of”+”Kids”+”Are”+”Skeptical”+”Of”+”Being”+”Vaccinated”+”What”+”Are”+”The”+”Chances”+”Of”+”Getting”+”To”+”Herd”+”Immunity?”
-Concatenated String12=Math Problem “If”+”The”+”Heritage”+”Foundation”+”Decided”+”To”+”Challenge”+”The”+”Cdcs”+”Guidelines”+”On”+”The”+”Idea”+”That”+”Education”+”Is”+”Not”+”Federal”+”And”+”The”+”70”+”Percent”+”Rule”+”Is”+”Unconstituional”+”Would”+”It”+”Hold”+”Water?”
-Concatenated String13=Phrase “One”+”Of”+”The”+”Positive”+”Stories”+”Can”+”Be”+”Found”+”In”+”The”+”One”+”Four”+”Four”
-Concatenated String14=Phrase “The”+”Basic”+”Lesson”+”From”+”The”+”Bubble”+”Is”+”That”+”There”+”Is”+”A”+”Way”+”To”+”Safely”+”Carry”+”Out”+”High”+”Contact”+”Activites”
-Concatenated String15=Sentence “Herd”+”Immunity”+”Will”+”Keep”+”Kids”+”Safe”+”From”+”Covid”+”Weather”
-Concatenated String16=Sentence “The”+”Debate”+”Between”+”3Ft”+”And”+”6Ft”+”Is”+”A”+”Sideshow”
-Chapter= Document.Queryselector(Chapter)
-Chapter Inner Html
-Replace ‘ With / 
-For Apostrophe In Covid Strings4Fan Voting
-Select Characters
-Edit Diffuse Property
-Desired Color=Green
-<P>String 1[Votes ‘String 1 ‘]}Votes</P>
-<P>String 2[Votes ‘String 2 ‘]}Votes</P>
-<P>String 3 [Votes ‘String 3 ‘]}Votes</P>
-<P>String 4 [Votes ‘String 4 ‘]}Votes</P>
-<P>String 5[Votes ‘String 5 ‘]}Votes</P>
-<P>String 6[Votes ‘String 6 ‘]}Votes</P>
-<P>String 7 [Votes ‘String 7 ‘]}Votes</P>
-<P>String 8[Votes ‘String 8 ‘]}Votes</P>
-<P>String 9 [Votes ‘String 9 ‘]}Votes</P>
-<P>String 10 [Votes ‘String 10 ‘]}Votes</P>
-<P>String 11[Votes ‘String 11 ‘]}Votes</P>
-<P>String 12 [Votes ‘String 12 ‘]}Votes</P>
-<P>String 13 [Votes ‘String 13 ‘]}Votes</P>
-<P>String 14 [Votes ‘String 14 ‘]}Votes</P>
-<P>String 15 [Votes ‘String 15 ‘]}Votes</P>
-<P>String 16 [Votes ‘String 16 ‘]}Votes</P>
-<Subheading.Html>
-First Round  Concatenated String Advancing 
-The Code Designed To Advancing Winning Concatenated Strings 
-Advance To Next Round (Strings To Advance)
-Sorted Strings=(Strings.Sort(String1,String2) Strings 1 Votes String 2 Votes)
-Advancing Strings=Sorted Strings.Slice(0,Num To 8)
-Return Advancing Strings 
-Percentage Calculator
-Part=Number Of Votes Per Day In Round 
-Whole= Total Number Of Votes For String
-Calculate {Part,Whole}
-Return (Part/Whole)*100
-Display (Part,Whole)
-Percentage=This.Calculate(Part,Whole)
-Return {Part} Is {Percentage} Of {Whole}
-Result=PercentageCalculator.Display()
-Console Log Result 
-If Result Matchup1>=.5
-If Result Matchup2>=.5
-If Result Matchup3>=.5
-If Result Matchup4>=.5
-If Result Matchup5>=.5
-If Result Matchup6>=.5
-If Result Matchup7>=.5
-If Result Matchup8>=.5
-NewWindow=Window.Open(Current Round)
-CurrentRound=First Round
-Window.Close(Current Round)
-Window.Vote =Function(Index)
-Candidates [Index] Votes++;
-Next Round Button.AddEventListener(‘Click’,()
-If(CurrentRound <TotalRounds)
-CurrentRound++
-Else:
-Alert(‘Voting Has Ended)
-If NextRoundButton.Disabled=True
-Conclude Voting For  First Round
-<Header.Html>
-Second Round
-The Second Round Of Fan Voting
-Render Round
-RoundContainer.InnerHtml=<H2 Round {Second Round} <H2>
-Candidates ForEach((Candidate,Index)
-CandidateDiv.Innerhtml
-<P> {Candidate Name } {Candidate Votes} Votes </P>
-<Button On Click= “Vote {Index} >”Vote For {Candidate Name} </Button>
-Round Container.AppendChild(CandidateDiv)
-Add Event Listener (‘Dom Content Loaded)
-Let Current Round=Round2
-Total Rounds= 5
-Round Container=Document.Get Element By Id(‘Round-Container’)
-NextRoundButton=Document.Get Element By Id(‘Next-Round’)
-Window Open 
-Window Vote Function (Index)
-Candidates [Index] Votes++
-Commence Round .AddEventListener(Click)
-If Current Round ==Round 2:
-Commence Round 2
-Else:
-Remain 
-String Numbers[Non-Concatenated Strings :Name ‘String Pair1’ Votes 
-Name: ‘String Pair2’ Votes
-Name: ‘String Pair3’ Votes
-Name:’String Pair4’ Votes
-String Numbers[Concatenated Strings : Name ‘String Pair1’ Votes 
-Name: ‘String Pair 2’ Votes
-Name: ‘String Pair3’ Votes
-Name:’String Pair4’ Votes
-<Subheading.Html>
-Second Round Non-Concatenated String Advancing 
-The Code Designed To Advancing Winning Non-Concatenated Strings 
-Advance To Next Round (Strings To Advance)
-Sorted Strings=(Strings.Sort(String1,String2) Strings 1 Votes String 2 Votes)
-Advancing Strings=Sorted Strings.Slice(0,Num To 4)
-Percentage Calculator
-Part=Number Of Votes Per Day In Round 
-Whole= Total Number Of Votes For String
-Calculate {Part,Whole}
-Return (Part/Whole)*100
-Display (Part,Whole)
-Percentage=This.Calculate(Part,Whole)
-Return {Part} Is {Percentage} Of {Whole}
-Result=PercentageCalculator.Display()
-Console Log Result 
-Return Advancing Strings 
-If Result Matchup1>=.5
-If Result Matchup2>=.5
-If Result Matchup3>=.5
-If Result Matchup4>=.5
-Concatenated Strings 
-Name String1 Votes
-Name String2 Votes
-Name String3 Votes
-Name String4 Votes
-Name String5 Votes
-Name String6 Votes
-Name String7 Votes
-Name String8 Votes
-<Subheading.Html>
-Second Round Concatenated String Advancing 
-Advance To Next Round (Strings To Advance)
-Sorted Strings=(Strings.Sort(String1,String2) Strings 1 Votes String 2 Votes)
-Advancing Strings=Sorted Strings.Slice(0,Num To 4)
-Return Advancing Strings
-Percentage Calculator
-Part=Number Of Votes Per Day In Round 
-Whole= Total Number Of Votes For String
-Calculate {Part,Whole}
-Return (Part/Whole)*100
-Display (Part,Whole)
-Percentage=This.Calculate(Part,Whole)
-Return {Part} Is {Percentage} Of {Whole}
-Result=PercentageCalculator.Display()
-Console Log Result  
-If Result Matchup1>=.5
-If Result Matchup2>=.5
-If Result Matchup3>=.5
-If Result Matchup4>=.5
-NewWindow=Window.Open(Current Round)
-CurrentRound=First Round
-Window.Close(Current Round)
-Window.Vote =Function(Index)
-Candidates [Index] Votes++;
-Next Round Button.AddEventListener(‘Click’,()
-If(CurrentRound <TotalRounds)
-CurrentRound++
-Else:
-Alert(‘Voting Has Ended)
-If NextRoundButton.Disabled=True
-Conclude Voting For  Second Round
-<Header.Html>
-Third Round
-The Third Round Of Fan Voting
-Render Round
-RoundContainer.InnerHtml=<H3 Round {Third Round} <H3>
-Candidates ForEach((Candidate,Index)
-CandidateDiv.Innerhtml
-<P> {Candidate Name } {Candidate Votes} Votes </P>
-<Button On Click= “Vote {Index} >”Vote For {Candidate Name} </Button>
-Round Container.AppendChild(CandidateDiv)
-Add Event Listener (‘Dom Content Loaded)
-Let Current Round=Round3
-Total Rounds= 5
-Round Container=Document.Get Element By Id(‘Round-Container’)
-NextRoundButton=Document.Get Element By Id(‘Next-Round’)
-Window Open 
-Window Vote Function (Index)
-Candidates [Index] Votes++
-Commence Round .AddEventListener(Click)
-If Current Round ==Round 3:
-Commence Round 3
-Else:
-Remain 
-String Numbers[Non-Concatenated Strings :Name  ‘String Pair1’ Votes 
-Name: ‘String Pair2’ Votes
-String Numbers[Concatenated Strings : Name  ‘String Pair1’ Votes 
-Name: ‘String Pair2’ Votes
-<Subheading.Html>
-Third Round Non-Concatenated String Advancing 
-The Code Designed To Advancing Winning Non-Concatenated Strings 
-Advance To Next Round (Strings To Advance)
-Sorted Strings=(Strings.Sort(String1,String2) Strings 1 Votes String 2 Votes)
-Advancing Strings=Sorted Strings .Slice(0,Num To 2)
-Return Advancing Strings
-Percentage Calculator
-Part=Number Of Votes Per Day In Round 
-Whole= Total Number Of Votes For String
-Calculate {Part,Whole}
-Return (Part/Whole)*100
-Display (Part,Whole)
-Percentage=This.Calculate(Part,Whole)
-Return {Part} Is {Percentage} Of {Whole}
-Result=PercentageCalculator.Display()
-Console Log Result  
-If Result Matchup1>=.5
-If Result Matchup2>=.5
-Name String1 Votes
-Name String2 Votes
-Name String3 Votes
-Name String4 Votes
-<Subheading.Html>
-Third Round Concatenated String Advancing 
-The Code Designed To Advancing Winning Concatenated Strings 
-Advance To Next Round (Strings To Advance)
-Sorted Strings=(Strings.Sort(String1,String2) Strings 1 Votes String 2 Votes)
-Advancing Strings=Sorted Strings.Slice(0,Num To 2)
-Return Advancing Strings 
-Percentage Calculator
-Part=Number Of Votes Per Day In Round 
-Whole= Total Number Of Votes For String
-Calculate {Part,Whole}
-Return (Part/Whole)*100
-Display (Part,Whole)
-Percentage=This.Calculate(Part,Whole)
-Return {Part} Is {Percentage} Of {Whole}
-Result=PercentageCalculator.Display()
-Console Log Result 
-If Result Matchup1>=.5
-If Result Matchup2>=.5
-NewWindow=Window.Open(Current Round)
-Window.Close(Current Round)
-Window.Vote =Function(Index)
-Candidates [Index] Votes++;
-Next Round Button.AddEventListener(‘Click’,()
-If(CurrentRound <TotalRounds)
-CurrentRound++
-Else:
-Alert(‘Voting Has Ended)
-If NextRoundButton.Disabled=True
-Conclude Voting For Third Round 
-<Header.Html>
-Fourth Round
-The Fourth Round Of Fan Voting
-Render Round
-RoundContainer.InnerHtml=<H4 Round {Fourth Round} <H4>
-Candidates ForEach((Candidate,Index)
-CandidateDiv.Innerhtml
-<P> {Candidate Name } {Candidate Votes} Votes </P>
-<Button On Click= “Vote {Index} >”Vote For {Candidate Name}</Button>
-Round Container.AppendChild(CandidateDiv)
-Add Event Listener (‘Dom Content Loaded)
-Let Current Round=ROUND4
-Total Rounds=5
-Round Container=Document.Get Element By Id(‘Round-Container’)
-NextRoundButton=Document.Get Element By Id(‘Next-Round’)
-String Numbers[Non-Concatenated Strings : Name ‘String Pair1’ Votes 
-String Numbers[Concatenated Strings :Name ‘String Pair1’ Votes
-Name String1 Votes
-Name String2 Votes 
-<Subheading.Html>
-Fourth Round Non-Concatenated String Advancing 
+edit diffuse property
+desired color=green
+<p>string 1[votes ‘string 1 ‘]}votes</p>
+<p>string 2[votes ‘string 2 ‘]}votes</p>
+string 3 [votes ‘string 3 ‘]}votes</p>
+string 4 [votes ‘string 4 ‘]}votes</p>
+string 5[votes ‘string 5 ‘]}votes</p>
+string 6[votes ‘string 6 ‘]}votes</p>
+string 7 [votes ‘string 7 ‘]}votes</p>
+string 8[votes ‘string 8 ‘]}votes</p>
+string 9 [votes ‘string 9 ‘]}votes</p>
+string 10 [votes ‘string 10 ‘]}votes</p>
+string 11[votes ‘string 11 ‘]}votes</p>
+string 12 [votes ‘string 12 ‘]}votes</p>
+string 13 [votes ‘string 13 ‘]}votes</p>
+string 14 [votes ‘string 14 ‘]}votes</p>
+string 15 [votes ‘string 15 ‘]}votes</p>
+string 16 [votes ‘string 16 ‘]}votes</p>
+<subheading.html>
+non-concatenated string advancing 
+the code designed to advancing winning non-concatenated strings 
+advance to next round (strings to advance)
+sorted strings=(strings.sort(string1,string2) strings 1 votes string 2 votes)
+advancing strings= sorted strings.slice(0,num to 8)
+return advancing strings 
+if result matchup1>=.5
+if result matchup2>=.5
+if result matchup3>=.5
+if result matchup4>=.5
+if result matchup5>=.5
+if result matchup6>=.5
+if result matchup7>=.5
+if result matchup8>=.5
+<header.html>
+concatenated string variables
+concatenated strings in covid strings
+concatenated string list=[1:phrase “5th”+”harmonys”+”work”+”is”+”not”+”the”+”only”+”work”+”from”+”home”+”song”, 2:phrase ”i”+”hear”+”there”+”are”+”some”+”more”,3:phrase “one”+”of”+”them”+”deals”+”with”+”not”+”giving”+”up”, 4:phrase “there”+”was”+”after”+”all”+”a”+”lot”+”of”+”madness”+”over”+”the”+”last”+”two”+”years”, 5:phrase ”this”+”included”+”but”+”was”+”not”+”limited”+”to”+”the”+”2020”+”ncaa”+”basketball”+”tournament”, 6:phrase ”there”+”was”+”better”+”news”+”at”+”the”+”professional”+”level”, 7:math problem “if”+”a”+”draft”+”of”+”cdc”+”guidelines”+”suggests”+”that”+”social”+”distancing”+”can”+”be”+”reduced”+”to”+”3ft”+”of”+”distancing”+”be”+”implemented”+”if”+”school”+”starts”+”in”+”september?”, 8:math problem ”if”+”the”+”cdc”+”clarified”+”these”+”guidelines”+”to”+”say”+”that”+”everyone”+”means”+”70”+”percent”+"of”+”k-12”+”kids”+”nationwide”+”and”+”the”+”vaccination”+”rate”+”is”+”40%”+”should”+”schools”+”allow”+”for”+”3”+”feet”+”of”+”distancing?”, 9:math problem “if”+”a”+”poll”+”taken”+”on”+”july”+”28th”+”showed”+”that”+”25%”+”of”+”respondents”+”said”+”they”+”were”+”open”+”to”+”getting”+”vaccinated”+”can”+”3ft”+”of”+”distancing”+”be”+”implemented”+”if”+”school”+”starts”+”in”+”september”?, 10:math problem “if”+”the”+”margin”+”of”+”error”+”is”+”7.25”+”percent”+”what”+”is”+”the”+”range?”, 11:math problem ”if”+”that”+”same”+”poll”+”found”+”that”+”35”+”percent”+”of”+”kids”+”are”+”skeptical”+”of”+”being”+”vaccinated”+”what”+”are”+”the”+”chances”+”of”+”getting”+”to”+”herd”+”immunity?” 12: math problem “if”+”the”+”heritage”+”foundation”+”decided”+”to”+”challenge”+”the”+”cdcs”+”guidelines”+”on”+”the”+”idea”+”that”+”education”+”is”+”not”+”federal”+"and”+”the”+”70”+”percent”+”rule”+”is”+”unconstituional”+”would”+”it”+”hold”+”water?” 13:phrase “one”+”of”+”the”+”positive”+”stories”+”can”+”be”+”found”+”in”+”the”+”one”+”four”+"four”, 14:phrase “the”+”basic”+”lesson”+”from”+”the”+”bubble”+”is”+”that”+”there”+”is”+”a”+”way”+”to”+”safely”+”carry”+”out”+”high”+”contact”+”activites” 15:sentence “herd”+”immunity”+”will”+”keep”+”kids”+”safe”+”from”+”covid”+”weather”, 16:sentence “the”+”debate”+”between”+”3ft”+”and”+”6ft”+”is”+”a”+”sideshow”
+concatenated string1=phrase “5th”+”harmonys”+”work”+”is”+”not”+”the”+”only”+”work”+”from”+”home”+”song”
+concatenated string2=phrase”i”+”hear”+”there”+”are”+”some”+”more”
+concatenated string3=phrase “one”+”of”+”them”+”deals”+”with”+”not”+”giving”+”up”
+concatenated string4=phrase “there”+”was”+”after”+”all”+”a”+”lot”+”of”+”madness”+”over”+”the”+”last”+”two”+”years”
+concatenated string5=phrase ”this”+”included”+”but”+”was”+”not”+”limited”+”to”+”the”+”2020”+”ncaa”+”basketball”+”tournament”
+concatenated string6=phrase ”there”+”was”+”better”+”news”+”at”+”the”+”professional”+”level”
+concatenated string7=math problem “if”+”a”+”draft”+”of”+”cdc”+”guidelines”+”suggests”+”that”+”social”+”distancing”+”can”+”be”+”reduced”+”to”+”3ft”+”of”+”distancing”+”be”+”implemented”+”if”+”school”+”starts”+”in”+”september?”
+concatenated string8=math problem ”if”+”the”+”cdc”+”clarified”+”these”+”guidelines”+”to”+”say”+”that”+”everyone”+”means”+”70”+”percent”+"of”+”k-12”+”kids”+”nationwide”+”and”+”the”+”vaccination”+”rate”+”is”+”40%”+”should”+”schools”+”allow”+”for”+”3”+”feet”+”of”+”distancing?”
+concatenated string9=math problem “if”+”a”+”poll”+”taken”+”on”+”july”+”28th”+”showed”+”that”+”25%”+”of”+”respondents”+”said”+”they”+”were”+”open”+”to”+”getting”+”vaccinated”+”can”+”3ft”+”of”+”distancing”+”be”+”implemented”+”if”+”school”+”starts”+”in”+”september”?
+concatenated string10=math problem “if”+”the”+”margin”+”of”+”error”+”is”+”7.25”+”percent”+"what”+”is”+”the”+”range?"
+concatenated string11=math problem ”if”+”that”+”same”+”poll”+”found”+”that”+”35”+”percent”+”of”+”kids”+”are”+”skeptical”+”of”+”being”+”vaccinated”+”what”+”are”+”the”+”chances”+”of”+”getting”+”to”+”herd”+”immunity?”
+concatenated string12=math problem “if”+”the”+”heritage”+”foundation”+”decided”+”to”+”challenge”+”the”+”cdcs”+”guidelines”+”on”+”the”+”idea”+”that”+”education”+”is”+”not”+”federal”+”and”+”the”+”70”+”percent”+”rule”+”is”+”unconstituional”+”would”+”it”+”hold”+”water?”
+concatenated string13=phrase “one”+”of”+”the”+”positive”+”stories”+”can”+”be”+”found”+”in”+”the”+”one”+”four”+”four”
+concatenated string14=phrase “the”+”basic”+”lesson”+”from”+”the”+”bubble”+”is”+”that”+”there”+”is”+”a”+”way”+”to”+”safely”+”carry”+”out”+”high”+”contact”+”activites”
+concatenated string15=sentence “herd”+”immunity”+”will”+”keep”+”kids”+”safe”+”from”+”covid”+”weather”
+concatenated string16=sentence “the”+”debate”+”between”+”3ft”+”and”+”6ft”+”is”+”a”+”sideshow”
+chapter=document.queryselector(chapter)
+chapter inner html
+replace ‘ with / 
+for apostrophe in covid strings4fan voting
+select characters
+edit diffuse property
+desired color=green
+<p>string 1[votes ‘string 1 ‘]}votes</p>
+<p>string 2[votes ‘string 2 ‘]}votes</p>
+<p>string 3 [votes ‘string 3 ‘]}votes</p>
+<p>string 4 [votes ‘string 4 ‘]}votes</p>
+<p>string 5[votes ‘string 5 ‘]}votes</p>
+<p>string 6[votes ‘string 6 ‘]}votes</p>
+<p>string 7 [votes ‘string 7 ‘]}votes</p>
+<p>string 8[votes ‘string 8 ‘]}votes</p>
+<p>string 9 [votes ‘string 9 ‘]}votes</p>
+<p>string 10 [votes ‘string 10 ‘]}votes</p>
+<p>string 11[votes ‘string 11 ‘]}votes</p>
+<p>string 12 [votes ‘string 12 ‘]}votes</p>
+<p>string 13 [votes ‘string 13 ‘]}votes</p>
+<p>string 14 [votes ‘string 14 ‘]}votes</p>
+<p>string 15 [votes ‘string 15 ‘]}votes</p>
+<p>string 16 [votes ‘string 16 ‘]}votes</p>
+<subheading.html>
+first round concatenated string advancing 
+the code designed to advancing winning concatenated strings 
+advance to next round (strings to advance)
+sorted strings=(strings.sort(string1,string2) strings 1 votes string 2 votes)
+advancing strings=sorted strings.slice(0,num to 8)
+return advancing strings 
+percentage calculator
+part=number of votes per day in round 
+whole=total number of votes for string
+calculate {part,whole}
+return (part/whole)*100
+display (part,whole)
+percentage=this.calculate(part,whole)
+return {part} is {percentage} of {whole}
+result=percentagecalculator.display()
+console log result 
+if result matchup1>=.5
+if result matchup2>=.5
+if result matchup3>=.5
+if result matchup4>=.5
+if result matchup5>=.5
+if result matchup6>=.5
+if result matchup7>=.5
+if result matchup8>=.5
+newwindow=window.open(current round)
+currentround=first round
+window.close(current round)
+window.vote =function(index)
+candidates [index] votes++;
+next round button.addeventlistener(‘click’,()
+if(currentround<totalrounds)
+currentround++
+else:
+alert(‘voting has ended)
+if nextroundbutton.disabled=true
+conclude voting for first round
+<header.html>
+second round
+the second round of fan voting
+render round
+roundcontainer.innerhtml=<h2 round {second round} <h2>
+candidates foreach((candidate,index)
+candidatediv.innerhtml
+<p> {candidate name } {candidate votes} votes </p>
+<button on click= “vote {index} >”vote for {candidate name} </button>
+round container.appendchild(candidatediv)
+add event listener (‘dom content loaded)
+let current round=round2
+total rounds= 5
+round container=document.get element by id(‘round-container’)
+nextroundbutton=document.get element by id(‘next-round’)
+window open 
+window vote function (index)
+candidates [index] votes++
+commence round .addeventlistener(click)
+if current round==round 2:
+commence round 2
+else:
+remain 
+string numbers[non-concatenated strings:name ‘string pair1’ votes 
+name: ‘string pair2’ votes
+name: ‘string pair3’ votes
+name:’string pair4’ votes
+string numbers[concatenated strings:name ‘string pair1’ votes 
+name: ‘string pair 2’ votes
+name: ‘string pair3’ votes
+name:’string pair4’ votes
+<subheading.html>
+second round non-concatenated string advancing 
+the code designed to advancing winning non-concatenated strings 
+advance to next round (strings to advance)
+sorted strings=(strings.sort(string1,string2) strings 1 votes string 2 votes)
+advancing strings=sorted strings.slice(0,num to 4)
+percentage calculator
+part=number of votes per day in round 
+whole=total number of votes for string
+calculate {part,whole}
+return (part/whole)*100
+display (part,whole)
+percentage=this.calculate(part,whole)
+return {part} is {percentage} of {whole}
+result=percentagecalculator.display()
+console log result 
+return advancing strings 
+if result matchup1>=.5
+if result matchup2>=.5
+if result matchup3>=.5
+if result matchup4>=.5
+concatenated strings 
+name string1 votes
+name string2 votes
+name string3 votes
+name string4 votes
+name string5 votes
+name string6 votes
+name string7 votes
+name string8 votes
+<subheading.html>
+second round concatenated string advancing 
+advance to next round (strings to advance)
+sorted strings=(strings.sort(string1,string2) strings 1 votes string 2 votes)
+advancing strings=sorted strings.slice(0,num to 4)
+return advancing strings
+percentage calculator
+part=number of votes per day in round 
+whole=total number of votes for string
+calculate {part,whole}
+return (part/whole)*100
+display (part,whole)
+percentage=this.calculate(part,whole)
+return {part} is {percentage} of {whole}
+result=percentagecalculator.display()
+console log result  
+if result matchup1>=.5
+if result matchup2>=.5
+if result matchup3>=.5
+if result matchup4>=.5
+new window=window.open(current round)
+currentround=first round
+window.close(current round)
+window.vote=function(index)
+candidates [index] votes++;
+next round button.addeventlistener(‘click’,()
+if(currentround<totalrounds)
+currentround++
+else:
+alert(‘voting has ended)
+if nextroundbutton.disabled=true
+conclude voting for second round
+<header.html>
+third round
+the third round of fan voting
+render round
+roundcontainer.innerhtml=<h3 round {third round} <h3>
+candidates foreach((candidate,index)
+candidatediv.innerhtml
+<p> {candidate name } {candidate votes} votes </p>
+<button on click= “vote {index} >”vote for {candidate name} </button>
+round container.appendchild(candidatediv)
+add event listener (‘dom content loaded)
+let current round=round3
+total rounds= 5
+round container=document.get element by id(‘round-container’)
+nextroundbutton=document.get element by id(‘next-round’)
+window open 
+window vote function (index)
+candidates [index] votes++
+commence round .addeventlistener(click)
+if current round ==round 3:
+commence round 3
+else:
+remain 
+string numbers[non-concatenated strings:name ‘string pair1’ votes 
+name: ‘string pair2’ votes
+string numbers[concatenated strings:name  ‘string pair1’ votes 
+Name: ‘string pair2’ votes
+<subheading.html>
+third round non-concatenated string advancing 
+the code designed to advancing winning non-concatenated strings 
+advance to next round (strings to advance)
+sorted strings=(strings.sort(string1,string2) strings 1 votes string 2 votes)
+advancing strings=sorted strings.slice(0,num to 2)
+return advancing strings
+percentage calculator
+part=number of votes per day in round 
+whole=total number of votes for string
+calculate {part,whole}
+return (part/whole)*100
+display (part,whole)
+percentage=this.calculate(part,whole)
+return {part} is {percentage} of {whole}
+result=percentagecalculator.display()
+console log result  
+if result matchup1>=.5
+if result matchup2>=.5
+name string1 votes
+name string2 votes
+name string3 votes
+name string4 votes
+<subheading.html>
+third round concatenated string advancing 
+the code designed to advancing winning concatenated strings 
+advance to next round (strings to advance)
+sorted strings=(strings.sort(string1,string2) string 1 votes string 2 votes)
+advancing strings=sorted strings.slice(0,num to 2)
+return advancing strings 
+percentage calculator
+part=number of votes per day in round 
+whole=total number of votes for string
+calculate {part,whole}
+return (part/whole)*100
+display (part,whole)
+percentage=this.calculate(part,whole)
+return {part} is {percentage} of {whole}
+result=percentagecalculator.display()
+console log result 
+if result matchup1>=.5
+if result matchup2>=.5
+newwindow=window.open(current round)
+window.close(current round)
+window.vote=function(index)
+candidates [index] votes++;
+next round button.addeventlistener(‘click’,()
+if(currentround<totalrounds)
+currentround++
+else:
+alert(‘voting has ended)
+if nextroundbutton.disabled=true
+conclude voting for third round 
+<header.html>
+fourth round
+the fourth round of fan voting
+render round
+roundcontainer.innerhtml=<h4 round {fourth round} <h4>
+candidates foreach((candidate,index)
+candidatediv.innerhtml
+<p> {candidate name} {candidate votes} votes </p>
+<button on click= “vote {index} >”vote for {candidate name}</button>
+round container.appendchild(candidatediv)
+add event listener (‘dom content loaded)
+let current round=round4
+total rounds=5
+round container=document.get element by id(‘round-container’)
+nextroundbutton=document.get element by id(‘next-round’)
+string numbers[non-concatenated strings :name ‘string pair1’ votes 
+string numbers[concatenated strings :name ‘string pair1’ votes
+name string1 votes
+name string2 votes 
+<subheading.html>
+fourth round non-concatenated string advancing 
 The Code Designed To Advancing Winning Non-Concatenated Strings 
 Advance To Next Round (Strings To Advance)
 Sorted Strings=(Strings.Sort(String1,String2)Strings 1 Votes String 2 Votes)
